@@ -92,7 +92,7 @@ export default function App() {
     <div className="App flex flex-col">
       <div className="flex p-4">
         <div className="w-24 h-24 border-4 border-gray-500 rounded-full flex justify-center items-center text-5xl leading-none text-gray-500">
-          A
+          Griffin Zielke
         </div>
         <div className="details flex flex-col justify-center ml-4">
           <div className="name text-lg leading-none">Adrian Twarog</div>
@@ -108,7 +108,7 @@ export default function App() {
               )}
           </div>
           <div className="desc text-md font-medium mt-1 text-blue-400">
-            Full Stack Programmer
+            Student
           </div>
         </div>
       </div>
