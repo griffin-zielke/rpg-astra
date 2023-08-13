@@ -50,6 +50,9 @@ export default function EditSkill({
           <option value="red">red</option>
           <option value="green">green</option>
           <option value="blue">blue</option>
+          <option value="yellow">yellow</option>
+          <option value="purple">purple</option>
+          <option value="orange">orange</option>
         </select>
       </div>
       <div className="flex mt-2">
